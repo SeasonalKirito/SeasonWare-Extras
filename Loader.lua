@@ -26,7 +26,7 @@ repeat
   
   
   local Games = {
-    [] = "", 
+    [6918802270] = "https://raw.githubusercontent.com/SeasonalKirito/SeasonWare-Extras/main/Released%20Scripts/Project%20New%20World.lua", 
     [] = "" 
 
   }
